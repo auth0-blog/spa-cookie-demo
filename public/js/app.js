@@ -124,7 +124,7 @@ var routes = [
     path: '/',
     component: Home,
     props: {
-      requiresAuth: false
+      requiresAuth: true
     }
   },
   {

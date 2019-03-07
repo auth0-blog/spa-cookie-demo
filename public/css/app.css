@@ -1,0 +1,32 @@
+#server-response {
+  margin-top: 2rem;
+}
+
+#server-response pre {
+  padding: 20px;
+  border: 1px solid #cdcdcd;
+  width: auto;
+  display: inline-block;
+  border-radius: 5px;
+  box-shadow: 0px 3px 1px 1px #efefef;
+}
+
+#nav {
+  border-bottom: 1px solid #cdcdcd;
+  box-shadow: 0px 3px 5px 1px #efefef;
+}
+
+#nav a {
+  display: inline-block;
+}
+
+#nav a.nav-link {
+  margin-right: 20px;
+  font-size: 1.25rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+#profile h1 {
+  font-weight: 300;
+}
